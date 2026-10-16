@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+it is just a starter project where I am experimenting with different logic operators for now.
 
 ## How to test
 
-Explain how to use your project
+I'm not sure how you can run it, but I run it from wokiwok or whatever website. 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Right now two buttons and a screen.
